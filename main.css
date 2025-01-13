@@ -57,7 +57,7 @@ ul li {
 
 img {
     vertical-align: top;
-}
+} 
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: inherit;
@@ -101,7 +101,7 @@ a {
 
 .wrapper{
     box-sizing: border-box;
-    background-color: #07203F;
+    background-color: #5cb900e1;
     display: flex;
     max-width: 1440px;
     height: 801px;
