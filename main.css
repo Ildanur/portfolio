@@ -361,6 +361,7 @@ input::placeholder {
 /*---section 5---*/
 
 .backpic {
+    min-width: none;
     max-width: 1440px;
     height: 822px;
     position: relative;
@@ -439,6 +440,7 @@ input::placeholder {
 /*---footer---*/
 
 .footer_back {
+    min-width: none;
     max-width: 1440px;
     height: 138px;
     background-color: #07203F;
