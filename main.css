@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
     box-sizing: border-box;
     display: flex;
     height: 154px;
-    max-width: 1440px;
+    width: 1440px;
     background-color: #07203F;
     align-items: center;
     border-bottom: 1px solid #e2dbdbe7;
